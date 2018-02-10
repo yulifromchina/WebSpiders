@@ -1,0 +1,3 @@
+使用scrapy完成多爬虫，包括：
+
+爬取87movie点电影网的comedy爬虫，以及爬取豆瓣电影北京影讯的douban_movie爬虫，并把爬虫信息保存在movie_info.json中。

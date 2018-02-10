@@ -1,0 +1,1010 @@
+11 Jan 2018 18:04:25 parse.py [line:53]  DEBUG https://movie.douban.com/top250?start=1&filter=
+11 Jan 2018 18:04:25 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1291546/ title:霸王别姬 score:9.5 judge_people:684566 info:无介绍
+11 Jan 2018 18:04:25 database.py [line:23]  DEBUG create table success
+11 Jan 2018 18:04:25 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 霸王别姬
+11 Jan 2018 18:04:25 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:04:26 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1295644/ title:这个杀手不太冷 score:9.4 judge_people:895609 info:无介绍
+11 Jan 2018 18:04:26 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:04:26 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 这个杀手不太冷
+11 Jan 2018 18:04:26 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:04:26 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1292720/ title:阿甘正传 score:9.4 judge_people:761655 info:无介绍
+11 Jan 2018 18:04:26 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:04:26 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 阿甘正传
+11 Jan 2018 18:04:26 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:04:27 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1292063/ title:美丽人生 score:9.5 judge_people:445084 info:无介绍
+11 Jan 2018 18:04:27 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:04:27 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 美丽人生
+11 Jan 2018 18:04:27 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:04:27 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1291561/ title:千与千寻 score:9.2 judge_people:711665 info:无介绍
+11 Jan 2018 18:04:27 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:04:27 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 千与千寻
+11 Jan 2018 18:04:27 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:04:28 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1295124/ title:辛德勒的名单 score:9.4 judge_people:407499 info:无介绍
+11 Jan 2018 18:04:28 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:04:28 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 辛德勒的名单
+11 Jan 2018 18:04:28 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:04:28 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1292722/ title:泰坦尼克号 score:9.2 judge_people:702302 info:无介绍
+11 Jan 2018 18:04:28 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:04:28 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 泰坦尼克号
+11 Jan 2018 18:04:28 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:04:29 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/3541415/ title:盗梦空间 score:9.3 judge_people:807784 info:无介绍
+11 Jan 2018 18:04:29 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:04:29 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 盗梦空间
+11 Jan 2018 18:04:29 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:04:29 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/2131459/ title:机器人总动员 score:9.3 judge_people:529010 info:无介绍
+11 Jan 2018 18:04:29 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:04:29 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 机器人总动员
+11 Jan 2018 18:04:29 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:04:30 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1292001/ title:海上钢琴师 score:9.2 judge_people:628502 info:无介绍
+11 Jan 2018 18:04:30 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:04:30 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 海上钢琴师
+11 Jan 2018 18:04:30 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:04:30 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/3793023/ title:三傻大闹宝莱坞 score:9.1 judge_people:718254 info:无介绍
+11 Jan 2018 18:04:30 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:04:30 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 三傻大闹宝莱坞
+11 Jan 2018 18:04:30 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:04:31 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/3011091/ title:忠犬八公的故事 score:9.2 judge_people:491036 info:无介绍
+11 Jan 2018 18:04:31 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:04:31 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 忠犬八公的故事
+11 Jan 2018 18:04:31 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:04:31 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1291549/ title:放牛班的春天 score:9.2 judge_people:482224 info:无介绍
+11 Jan 2018 18:04:31 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:04:31 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 放牛班的春天
+11 Jan 2018 18:04:31 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:04:32 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1292213/ title:大话西游之大圣娶亲 score:9.2 judge_people:523140 info:无介绍
+11 Jan 2018 18:04:32 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:04:32 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 大话西游之大圣娶亲
+11 Jan 2018 18:04:32 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:04:32 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1291841/ title:教父 score:9.2 judge_people:364589 info:无介绍
+11 Jan 2018 18:04:32 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:04:32 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 教父
+11 Jan 2018 18:04:32 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:04:33 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1291560/ title:龙猫 score:9.1 judge_people:445094 info:无介绍
+11 Jan 2018 18:04:33 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:04:33 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 龙猫
+11 Jan 2018 18:04:33 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:04:33 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1292064/ title:楚门的世界 score:9.1 judge_people:490676 info:无介绍
+11 Jan 2018 18:04:33 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:04:33 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 楚门的世界
+11 Jan 2018 18:04:33 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:04:34 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1300267/ title:乱世佳人 score:9.2 judge_people:285267 info:无介绍
+11 Jan 2018 18:04:34 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:04:34 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 乱世佳人
+11 Jan 2018 18:04:34 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:04:34 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/5912992/ title:熔炉 score:9.2 judge_people:285112 info:无介绍
+11 Jan 2018 18:04:34 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:04:34 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 熔炉
+11 Jan 2018 18:04:34 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:04:35 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/6786002/ title:触不可及 score:9.1 judge_people:389541 info:无介绍
+11 Jan 2018 18:04:35 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:04:35 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 触不可及
+11 Jan 2018 18:04:35 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:04:35 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1291828/ title:天堂电影院 score:9.1 judge_people:324296 info:无介绍
+11 Jan 2018 18:04:35 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:04:35 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 天堂电影院
+11 Jan 2018 18:04:35 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:04:36 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1849031/ title:当幸福来敲门 score:8.9 judge_people:571624 info:无介绍
+11 Jan 2018 18:04:36 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:04:36 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 当幸福来敲门
+11 Jan 2018 18:04:36 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:04:36 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1307914/ title:无间道 score:9.0 judge_people:427394 info:无介绍
+11 Jan 2018 18:04:36 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:04:36 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 无间道
+11 Jan 2018 18:04:36 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:04:37 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1889243/ title:星际穿越 score:9.1 judge_people:519015 info:无介绍
+11 Jan 2018 18:04:37 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:04:37 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 星际穿越
+11 Jan 2018 18:04:37 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:04:37 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1293182/ title:十二怒汉 score:9.4 judge_people:181328 info:无介绍
+11 Jan 2018 18:04:37 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:04:37 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 十二怒汉
+11 Jan 2018 18:04:37 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:04:38 parse.py [line:53]  DEBUG https://movie.douban.com/top250?start=25&filter=
+11 Jan 2018 18:04:38 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1293182/ title:十二怒汉 score:9.4 judge_people:181328 info:无介绍
+11 Jan 2018 18:04:38 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:04:38 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 十二怒汉
+11 Jan 2018 18:04:38 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:04:39 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/3319755/ title:怦然心动 score:8.9 judge_people:587722 info:无介绍
+11 Jan 2018 18:04:39 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:04:39 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 怦然心动
+11 Jan 2018 18:04:39 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:04:39 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1292000/ title:搏击俱乐部 score:9.0 judge_people:419631 info:无介绍
+11 Jan 2018 18:04:39 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:04:39 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 搏击俱乐部
+11 Jan 2018 18:04:39 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:04:40 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1929463/ title:少年派的奇幻漂流 score:9.0 judge_people:608973 info:无介绍
+11 Jan 2018 18:04:40 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:04:40 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 少年派的奇幻漂流
+11 Jan 2018 18:04:40 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:04:40 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1291552/ title:指环王3：王者无敌 score:9.1 judge_people:299457 info:无介绍
+11 Jan 2018 18:04:40 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:04:40 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 指环王3：王者无敌
+11 Jan 2018 18:04:40 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:04:41 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1291858/ title:鬼子来了 score:9.2 judge_people:244208 info:无介绍
+11 Jan 2018 18:04:41 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:04:41 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 鬼子来了
+11 Jan 2018 18:04:41 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:04:41 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1851857/ title:蝙蝠侠：黑暗骑士 score:9.0 judge_people:343278 info:无介绍
+11 Jan 2018 18:04:41 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:04:41 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 蝙蝠侠：黑暗骑士
+11 Jan 2018 18:04:41 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:04:42 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1291583/ title:天空之城 score:9.0 judge_people:350706 info:无介绍
+11 Jan 2018 18:04:42 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:04:42 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 天空之城
+11 Jan 2018 18:04:42 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:04:42 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1292365/ title:活着 score:9.1 judge_people:286559 info:无介绍
+11 Jan 2018 18:04:42 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:04:42 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 活着
+11 Jan 2018 18:04:42 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:04:43 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1293839/ title:罗马假日 score:8.9 judge_people:405309 info:无介绍
+11 Jan 2018 18:04:43 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:04:43 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 罗马假日
+11 Jan 2018 18:04:43 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:04:43 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1299398/ title:大话西游之月光宝盒 score:8.9 judge_people:422293 info:无介绍
+11 Jan 2018 18:04:43 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:04:43 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 大话西游之月光宝盒
+11 Jan 2018 18:04:43 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:04:44 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/2129039/ title:飞屋环游记 score:8.9 judge_people:524496 info:无介绍
+11 Jan 2018 18:04:44 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:04:44 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 飞屋环游记
+11 Jan 2018 18:04:44 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:04:44 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1293350/ title:两杆大烟枪 score:9.1 judge_people:285074 info:无介绍
+11 Jan 2018 18:04:44 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:04:44 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 两杆大烟枪
+11 Jan 2018 18:04:44 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:04:45 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1900841/ title:窃听风暴 score:9.1 judge_people:235244 info:无介绍
+11 Jan 2018 18:04:45 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:04:45 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 窃听风暴
+11 Jan 2018 18:04:45 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:04:45 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1292224/ title:飞越疯人院 score:9.0 judge_people:288931 info:无介绍
+11 Jan 2018 18:04:45 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:04:45 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 飞越疯人院
+11 Jan 2018 18:04:45 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:04:46 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/3442220/ title:海豚湾 score:9.3 judge_people:188561 info:无介绍
+11 Jan 2018 18:04:46 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:04:46 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 海豚湾
+11 Jan 2018 18:04:46 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:04:46 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1296141/ title:控方证人 score:9.6 judge_people:98799 info:无介绍
+11 Jan 2018 18:04:46 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:04:46 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 控方证人
+11 Jan 2018 18:04:46 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:04:47 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1298624/ title:闻香识女人 score:8.9 judge_people:338580 info:无介绍
+11 Jan 2018 18:04:47 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:04:47 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 闻香识女人
+11 Jan 2018 18:04:47 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:04:47 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/25662329/ title:疯狂动物城 score:9.2 judge_people:533683 info:无介绍
+11 Jan 2018 18:04:47 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:04:47 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 疯狂动物城
+11 Jan 2018 18:04:47 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:04:48 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1309046/ title:V字仇杀队 score:8.8 judge_people:438438 info:无介绍
+11 Jan 2018 18:04:48 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:04:48 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = V字仇杀队
+11 Jan 2018 18:04:48 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:04:48 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1308807/ title:哈尔的移动城堡 score:8.9 judge_people:369082 info:无介绍
+11 Jan 2018 18:04:48 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:04:48 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 哈尔的移动城堡
+11 Jan 2018 18:04:48 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:04:49 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1299131/ title:教父2 score:9.1 judge_people:196409 info:无介绍
+11 Jan 2018 18:04:49 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:04:49 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 教父2
+11 Jan 2018 18:04:49 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:04:49 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1291548/ title:死亡诗社 score:8.9 judge_people:292169 info:无介绍
+11 Jan 2018 18:04:49 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:04:49 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 死亡诗社
+11 Jan 2018 18:04:49 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:04:50 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1306029/ title:美丽心灵 score:8.9 judge_people:317951 info:无介绍
+11 Jan 2018 18:04:50 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:04:50 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 美丽心灵
+11 Jan 2018 18:04:50 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:04:50 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1291572/ title:指环王2：双塔奇兵 score:9.0 judge_people:282320 info:无介绍
+11 Jan 2018 18:04:50 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:04:50 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 指环王2：双塔奇兵
+11 Jan 2018 18:04:50 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:04:51 parse.py [line:53]  DEBUG https://movie.douban.com/top250?start=50&filter=
+11 Jan 2018 18:04:51 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/21937445/ title:辩护人 score:9.1 judge_people:218184 info:无介绍
+11 Jan 2018 18:04:51 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:04:51 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 辩护人
+11 Jan 2018 18:04:51 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:04:52 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1291571/ title:指环王1：魔戒再现 score:8.9 judge_people:315620 info:无介绍
+11 Jan 2018 18:04:52 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:04:52 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 指环王1：魔戒再现
+11 Jan 2018 18:04:52 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:04:52 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1292220/ title:情书 score:8.8 judge_people:391725 info:无介绍
+11 Jan 2018 18:04:52 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:04:52 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 情书
+11 Jan 2018 18:04:52 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:04:53 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1291818/ title:饮食男女 score:9.1 judge_people:209111 info:无介绍
+11 Jan 2018 18:04:53 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:04:53 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 饮食男女
+11 Jan 2018 18:04:53 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:04:53 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1292262/ title:美国往事 score:9.1 judge_people:182438 info:无介绍
+11 Jan 2018 18:04:53 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:04:53 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 美国往事
+11 Jan 2018 18:04:53 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:04:54 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1292215/ title:天使爱美丽 score:8.7 judge_people:499284 info:无介绍
+11 Jan 2018 18:04:54 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:04:54 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 天使爱美丽
+11 Jan 2018 18:04:54 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:04:54 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1296736/ title:钢琴家 score:9.0 judge_people:210554 info:无介绍
+11 Jan 2018 18:04:54 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:04:54 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 钢琴家
+11 Jan 2018 18:04:54 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:04:55 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1301753/ title:狮子王 score:8.9 judge_people:293727 info:无介绍
+11 Jan 2018 18:04:55 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:04:55 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 狮子王
+11 Jan 2018 18:04:55 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:04:55 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1292223/ title:七宗罪 score:8.7 judge_people:450515 info:无介绍
+11 Jan 2018 18:04:55 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:04:55 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 七宗罪
+11 Jan 2018 18:04:55 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:04:56 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1787291/ title:被嫌弃的松子的一生 score:8.9 judge_people:299974 info:无介绍
+11 Jan 2018 18:04:56 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:04:56 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 被嫌弃的松子的一生
+11 Jan 2018 18:04:56 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:04:56 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1780330/ title:致命魔术 score:8.8 judge_people:357368 info:无介绍
+11 Jan 2018 18:04:56 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:04:56 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 致命魔术
+11 Jan 2018 18:04:56 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:04:57 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1303021/ title:小鞋子 score:9.2 judge_people:144237 info:无介绍
+11 Jan 2018 18:04:57 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:04:57 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 小鞋子
+11 Jan 2018 18:04:57 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:04:57 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/21937452/ title:素媛 score:9.1 judge_people:190332 info:无介绍
+11 Jan 2018 18:04:57 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:04:57 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 素媛
+11 Jan 2018 18:04:57 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:04:58 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1294639/ title:勇敢的心 score:8.8 judge_people:304004 info:无介绍
+11 Jan 2018 18:04:58 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:04:58 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 勇敢的心
+11 Jan 2018 18:04:58 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:04:58 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1292370/ title:剪刀手爱德华 score:8.7 judge_people:501033 info:无介绍
+11 Jan 2018 18:04:58 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:04:58 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 剪刀手爱德华
+11 Jan 2018 18:04:58 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:04:59 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1294408/ title:音乐之声 score:8.9 judge_people:240206 info:无介绍
+11 Jan 2018 18:04:59 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:04:59 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 音乐之声
+11 Jan 2018 18:04:59 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:04:59 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1291832/ title:低俗小说 score:8.8 judge_people:347142 info:无介绍
+11 Jan 2018 18:04:59 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:04:59 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 低俗小说
+11 Jan 2018 18:04:59 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:00 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1485260/ title:本杰明·巴顿奇事 score:8.7 judge_people:407449 info:无介绍
+11 Jan 2018 18:05:00 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:00 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 本杰明·巴顿奇事
+11 Jan 2018 18:05:00 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:00 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1291843/ title:黑客帝国 score:8.8 judge_people:291521 info:无介绍
+11 Jan 2018 18:05:00 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:00 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 黑客帝国
+11 Jan 2018 18:05:00 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:01 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1292402/ title:西西里的美丽传说 score:8.7 judge_people:362892 info:无介绍
+11 Jan 2018 18:05:01 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:01 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 西西里的美丽传说
+11 Jan 2018 18:05:01 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:01 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1293544/ title:沉默的羔羊 score:8.7 judge_people:365595 info:无介绍
+11 Jan 2018 18:05:01 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:01 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 沉默的羔羊
+11 Jan 2018 18:05:01 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:02 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1292849/ title:拯救大兵瑞恩 score:8.9 judge_people:247175 info:无介绍
+11 Jan 2018 18:05:02 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:02 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 拯救大兵瑞恩
+11 Jan 2018 18:05:02 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:02 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/2149806/ title:入殓师 score:8.8 judge_people:326740 info:无介绍
+11 Jan 2018 18:05:02 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:02 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 入殓师
+11 Jan 2018 18:05:02 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:03 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1292343/ title:蝴蝶效应 score:8.7 judge_people:394243 info:无介绍
+11 Jan 2018 18:05:03 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:03 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 蝴蝶效应
+11 Jan 2018 18:05:03 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:03 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/3072124/ title:玛丽和马克思 score:8.9 judge_people:237403 info:无介绍
+11 Jan 2018 18:05:03 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:03 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 玛丽和马克思
+11 Jan 2018 18:05:03 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:04 parse.py [line:53]  DEBUG https://movie.douban.com/top250?start=75&filter=
+11 Jan 2018 18:05:04 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/3742360/ title:让子弹飞 score:8.7 judge_people:642541 info:无介绍
+11 Jan 2018 18:05:04 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:04 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 让子弹飞
+11 Jan 2018 18:05:04 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:05 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1292679/ title:春光乍泄 score:8.8 judge_people:255541 info:无介绍
+11 Jan 2018 18:05:05 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:05 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 春光乍泄
+11 Jan 2018 18:05:05 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:05 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1292656/ title:心灵捕手 score:8.8 judge_people:280315 info:无介绍
+11 Jan 2018 18:05:05 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:05 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 心灵捕手
+11 Jan 2018 18:05:05 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:06 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1418019/ title:大闹天宫 score:9.2 judge_people:103436 info:无介绍
+11 Jan 2018 18:05:06 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:06 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 大闹天宫
+11 Jan 2018 18:05:06 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:06 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1297359/ title:幽灵公主 score:8.8 judge_people:242477 info:无介绍
+11 Jan 2018 18:05:06 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:06 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 幽灵公主
+11 Jan 2018 18:05:06 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:07 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1291875/ title:阳光灿烂的日子 score:8.7 judge_people:279041 info:无介绍
+11 Jan 2018 18:05:07 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:07 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 阳光灿烂的日子
+11 Jan 2018 18:05:07 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:07 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1297630/ title:第六感 score:8.8 judge_people:241531 info:无介绍
+11 Jan 2018 18:05:07 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:07 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 第六感
+11 Jan 2018 18:05:07 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:08 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1291999/ title:重庆森林 score:8.7 judge_people:340415 info:无介绍
+11 Jan 2018 18:05:08 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:08 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 重庆森林
+11 Jan 2018 18:05:08 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:08 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/26580232/ title:看不见的客人 score:8.7 judge_people:307295 info:无介绍
+11 Jan 2018 18:05:08 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:08 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 看不见的客人
+11 Jan 2018 18:05:08 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:09 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1291545/ title:大鱼 score:8.7 judge_people:259517 info:无介绍
+11 Jan 2018 18:05:09 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:09 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 大鱼
+11 Jan 2018 18:05:09 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:09 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/2334904/ title:禁闭岛 score:8.6 judge_people:370212 info:无介绍
+11 Jan 2018 18:05:09 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:09 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 禁闭岛
+11 Jan 2018 18:05:09 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:10 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1293172/ title:末代皇帝 score:8.9 judge_people:173599 info:无介绍
+11 Jan 2018 18:05:10 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:10 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 末代皇帝
+11 Jan 2018 18:05:10 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:10 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1316510/ title:射雕英雄传之东成西就 score:8.7 judge_people:283353 info:无介绍
+11 Jan 2018 18:05:10 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:10 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 射雕英雄传之东成西就
+11 Jan 2018 18:05:10 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:11 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/6985810/ title:狩猎 score:9.0 judge_people:132967 info:无介绍
+11 Jan 2018 18:05:11 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:11 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 狩猎
+11 Jan 2018 18:05:11 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:11 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1305164/ title:甜蜜蜜 score:8.8 judge_people:238388 info:无介绍
+11 Jan 2018 18:05:11 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:11 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 甜蜜蜜
+11 Jan 2018 18:05:11 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:12 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1292434/ title:一一 score:8.9 judge_people:160426 info:无介绍
+11 Jan 2018 18:05:12 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:12 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 一一
+11 Jan 2018 18:05:12 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:12 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/4917726/ title:阳光姐妹淘 score:8.8 judge_people:276175 info:无介绍
+11 Jan 2018 18:05:12 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:12 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 阳光姐妹淘
+11 Jan 2018 18:05:12 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:13 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1297192/ title:致命ID score:8.6 judge_people:327416 info:无介绍
+11 Jan 2018 18:05:13 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:13 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 致命ID
+11 Jan 2018 18:05:13 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:13 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/11525673/ title:布达佩斯大饭店 score:8.7 judge_people:320114 info:无介绍
+11 Jan 2018 18:05:13 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:13 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 布达佩斯大饭店
+11 Jan 2018 18:05:13 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:14 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1292208/ title:上帝之城 score:8.9 judge_people:161426 info:无介绍
+11 Jan 2018 18:05:14 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:14 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 上帝之城
+11 Jan 2018 18:05:14 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:14 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/4268598/ title:告白 score:8.7 judge_people:351386 info:无介绍
+11 Jan 2018 18:05:14 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:14 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 告白
+11 Jan 2018 18:05:14 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:15 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1418834/ title:断背山 score:8.6 judge_people:327375 info:无介绍
+11 Jan 2018 18:05:15 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:15 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 断背山
+11 Jan 2018 18:05:15 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:15 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1295038/ title:哈利·波特与魔法石 score:8.7 judge_people:263432 info:无介绍
+11 Jan 2018 18:05:15 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:15 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 哈利·波特与魔法石
+11 Jan 2018 18:05:15 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:16 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1298070/ title:加勒比海盗 score:8.6 judge_people:353589 info:无介绍
+11 Jan 2018 18:05:16 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:16 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 加勒比海盗
+11 Jan 2018 18:05:16 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:16 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1305487/ title:猫鼠游戏 score:8.7 judge_people:231859 info:无介绍
+11 Jan 2018 18:05:16 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:16 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 猫鼠游戏
+11 Jan 2018 18:05:16 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:17 parse.py [line:53]  DEBUG https://movie.douban.com/top250?start=100&filter=
+11 Jan 2018 18:05:17 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1294371/ title:摩登时代 score:9.2 judge_people:91422 info:无介绍
+11 Jan 2018 18:05:17 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:17 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 摩登时代
+11 Jan 2018 18:05:17 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:18 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1296339/ title:爱在黎明破晓前 score:8.7 judge_people:225968 info:无介绍
+11 Jan 2018 18:05:18 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:18 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 爱在黎明破晓前
+11 Jan 2018 18:05:18 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:18 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1652587/ title:阿凡达 score:8.6 judge_people:539537 info:无介绍
+11 Jan 2018 18:05:18 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:18 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 阿凡达
+11 Jan 2018 18:05:18 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:19 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/3008247/ title:穿条纹睡衣的男孩 score:8.9 judge_people:149709 info:无介绍
+11 Jan 2018 18:05:19 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:19 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 穿条纹睡衣的男孩
+11 Jan 2018 18:05:19 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:19 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1291585/ title:风之谷 score:8.8 judge_people:180232 info:无介绍
+11 Jan 2018 18:05:19 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:19 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 风之谷
+11 Jan 2018 18:05:19 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:20 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1291990/ title:爱在日落黄昏时 score:8.7 judge_people:202995 info:无介绍
+11 Jan 2018 18:05:20 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:20 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 爱在日落黄昏时
+11 Jan 2018 18:05:20 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:20 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/21318488/ title:消失的爱人 score:8.7 judge_people:363748 info:无介绍
+11 Jan 2018 18:05:20 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:20 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 消失的爱人
+11 Jan 2018 18:05:20 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:21 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1297052/ title:侧耳倾听 score:8.8 judge_people:172150 info:无介绍
+11 Jan 2018 18:05:21 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:21 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 侧耳倾听
+11 Jan 2018 18:05:21 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:21 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1293318/ title:萤火虫之墓 score:8.7 judge_people:207642 info:无介绍
+11 Jan 2018 18:05:21 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:21 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 萤火虫之墓
+11 Jan 2018 18:05:21 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:22 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/5322596/ title:超脱 score:8.8 judge_people:175915 info:无介绍
+11 Jan 2018 18:05:22 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:22 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 超脱
+11 Jan 2018 18:05:22 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:22 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/2353023/ title:驯龙高手 score:8.7 judge_people:290323 info:无介绍
+11 Jan 2018 18:05:22 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:22 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 驯龙高手
+11 Jan 2018 18:05:22 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:23 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1297447/ title:倩女幽魂 score:8.6 judge_people:257490 info:无介绍
+11 Jan 2018 18:05:23 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:23 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 倩女幽魂
+11 Jan 2018 18:05:23 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:23 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1865703/ title:红辣椒 score:8.9 judge_people:137172 info:无介绍
+11 Jan 2018 18:05:23 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:23 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 红辣椒
+11 Jan 2018 18:05:23 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:24 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/21360417/ title:恐怖直播 score:8.7 judge_people:224734 info:无介绍
+11 Jan 2018 18:05:24 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:24 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 恐怖直播
+11 Jan 2018 18:05:24 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:24 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/26387939/ title:摔跤吧！爸爸 score:9.1 judge_people:450038 info:无介绍
+11 Jan 2018 18:05:24 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:24 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 摔跤吧！爸爸
+11 Jan 2018 18:05:24 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:25 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1293359/ title:菊次郎的夏天 score:8.7 judge_people:185288 info:无介绍
+11 Jan 2018 18:05:25 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:25 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 菊次郎的夏天
+11 Jan 2018 18:05:25 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:25 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1292274/ title:幸福终点站 score:8.6 judge_people:228614 info:无介绍
+11 Jan 2018 18:05:25 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:25 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 幸福终点站
+11 Jan 2018 18:05:25 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:26 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/3792799/ title:岁月神偷 score:8.6 judge_people:311883 info:无介绍
+11 Jan 2018 18:05:26 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:26 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 岁月神偷
+11 Jan 2018 18:05:26 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:26 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1295399/ title:七武士 score:9.2 judge_people:78647 info:无介绍
+11 Jan 2018 18:05:26 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:26 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 七武士
+11 Jan 2018 18:05:26 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:27 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/3443389/ title:海洋 score:9.0 judge_people:100107 info:无介绍
+11 Jan 2018 18:05:27 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:27 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 海洋
+11 Jan 2018 18:05:27 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:27 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/3287562/ title:神偷奶爸 score:8.5 judge_people:383331 info:无介绍
+11 Jan 2018 18:05:27 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:27 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 神偷奶爸
+11 Jan 2018 18:05:27 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:28 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/4202302/ title:借东西的小人阿莉埃蒂 score:8.7 judge_people:220345 info:无介绍
+11 Jan 2018 18:05:28 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:28 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 借东西的小人阿莉埃蒂
+11 Jan 2018 18:05:28 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:28 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1292401/ title:真爱至上 score:8.5 judge_people:319139 info:无介绍
+11 Jan 2018 18:05:28 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:28 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 真爱至上
+11 Jan 2018 18:05:28 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:29 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1300299/ title:杀人回忆 score:8.6 judge_people:213156 info:无介绍
+11 Jan 2018 18:05:29 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:29 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 杀人回忆
+11 Jan 2018 18:05:29 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:29 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1417598/ title:电锯惊魂 score:8.7 judge_people:201440 info:无介绍
+11 Jan 2018 18:05:29 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:29 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 电锯惊魂
+11 Jan 2018 18:05:29 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:30 parse.py [line:53]  DEBUG https://movie.douban.com/top250?start=125&filter=
+11 Jan 2018 18:05:30 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1578507/ title:谍影重重3 score:8.7 judge_people:183394 info:无介绍
+11 Jan 2018 18:05:30 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:30 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 谍影重重3
+11 Jan 2018 18:05:30 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:31 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/2209573/ title:贫民窟的百万富翁 score:8.5 judge_people:400638 info:无介绍
+11 Jan 2018 18:05:31 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:31 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 贫民窟的百万富翁
+11 Jan 2018 18:05:31 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:31 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/25814705/ title:小森林 夏秋篇 score:8.9 judge_people:132074 info:无介绍
+11 Jan 2018 18:05:31 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:31 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 小森林 夏秋篇
+11 Jan 2018 18:05:31 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:32 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1291870/ title:雨人 score:8.6 judge_people:212758 info:无介绍
+11 Jan 2018 18:05:32 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:32 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 雨人
+11 Jan 2018 18:05:32 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:32 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1302425/ title:喜剧之王 score:8.5 judge_people:318482 info:无介绍
+11 Jan 2018 18:05:32 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:32 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 喜剧之王
+11 Jan 2018 18:05:32 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:33 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1292328/ title:东邪西毒 score:8.6 judge_people:254007 info:无介绍
+11 Jan 2018 18:05:33 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:33 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 东邪西毒
+11 Jan 2018 18:05:33 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:33 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1304447/ title:记忆碎片 score:8.5 judge_people:283430 info:无介绍
+11 Jan 2018 18:05:33 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:33 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 记忆碎片
+11 Jan 2018 18:05:33 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:34 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1295865/ title:燃情岁月 score:8.7 judge_people:150332 info:无介绍
+11 Jan 2018 18:05:34 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:34 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 燃情岁月
+11 Jan 2018 18:05:34 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:34 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1303037/ title:喜宴 score:8.8 judge_people:141763 info:无介绍
+11 Jan 2018 18:05:34 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:34 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 喜宴
+11 Jan 2018 18:05:34 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:35 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1291579/ title:怪兽电力公司 score:8.6 judge_people:243912 info:无介绍
+11 Jan 2018 18:05:35 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:35 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 怪兽电力公司
+11 Jan 2018 18:05:35 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:35 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1907966/ title:疯狂原始人 score:8.7 judge_people:375158 info:无介绍
+11 Jan 2018 18:05:35 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:35 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 疯狂原始人
+11 Jan 2018 18:05:35 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:36 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1296909/ title:虎口脱险 score:8.9 judge_people:108429 info:无介绍
+11 Jan 2018 18:05:36 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:36 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 虎口脱险
+11 Jan 2018 18:05:36 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:36 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1978709/ title:黑天鹅 score:8.5 judge_people:422392 info:无介绍
+11 Jan 2018 18:05:36 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:36 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 黑天鹅
+11 Jan 2018 18:05:36 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:37 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1291822/ title:卢旺达饭店 score:8.8 judge_people:121164 info:无介绍
+11 Jan 2018 18:05:37 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:37 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 卢旺达饭店
+11 Jan 2018 18:05:37 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:37 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1297574/ title:英雄本色 score:8.6 judge_people:165257 info:无介绍
+11 Jan 2018 18:05:37 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:37 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 英雄本色
+11 Jan 2018 18:05:37 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:38 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1309163/ title:恋恋笔记本 score:8.5 judge_people:285575 info:无介绍
+11 Jan 2018 18:05:38 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:38 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 恋恋笔记本
+11 Jan 2018 18:05:38 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:39 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1292528/ title:猜火车 score:8.5 judge_people:251160 info:无介绍
+11 Jan 2018 18:05:39 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:39 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 猜火车
+11 Jan 2018 18:05:39 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:39 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1937946/ title:穿越时空的少女 score:8.6 judge_people:187377 info:无介绍
+11 Jan 2018 18:05:39 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:39 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 穿越时空的少女
+11 Jan 2018 18:05:39 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:40 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1293964/ title:魂断蓝桥 score:8.8 judge_people:130534 info:无介绍
+11 Jan 2018 18:05:40 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:40 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 魂断蓝桥
+11 Jan 2018 18:05:40 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:40 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1418200/ title:傲慢与偏见 score:8.4 judge_people:305022 info:无介绍
+11 Jan 2018 18:05:40 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:40 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 傲慢与偏见
+11 Jan 2018 18:05:40 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:41 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1294240/ title:教父3 score:8.8 judge_people:131575 info:无介绍
+11 Jan 2018 18:05:41 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:41 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 教父3
+11 Jan 2018 18:05:41 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:41 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1293460/ title:雨中曲 score:8.9 judge_people:93998 info:无介绍
+11 Jan 2018 18:05:41 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:41 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 雨中曲
+11 Jan 2018 18:05:41 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:42 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1300992/ title:完美的世界 score:9.0 judge_people:80817 info:无介绍
+11 Jan 2018 18:05:42 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:42 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 完美的世界
+11 Jan 2018 18:05:42 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:42 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1295409/ title:纵横四海 score:8.7 judge_people:146985 info:无介绍
+11 Jan 2018 18:05:42 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:42 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 纵横四海
+11 Jan 2018 18:05:42 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:43 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/5989818/ title:萤火之森 score:8.7 judge_people:158847 info:无介绍
+11 Jan 2018 18:05:43 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:43 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 萤火之森
+11 Jan 2018 18:05:43 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:43 parse.py [line:53]  DEBUG https://movie.douban.com/top250?start=150&filter=
+11 Jan 2018 18:05:44 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/10777687/ title:7号房的礼物 score:8.7 judge_people:177037 info:无介绍
+11 Jan 2018 18:05:44 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:44 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 7号房的礼物
+11 Jan 2018 18:05:44 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:44 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1858711/ title:玩具总动员3 score:8.8 judge_people:193640 info:无介绍
+11 Jan 2018 18:05:44 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:44 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 玩具总动员3
+11 Jan 2018 18:05:44 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:45 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/25980443/ title:海边的曼彻斯特 score:8.6 judge_people:182163 info:无介绍
+11 Jan 2018 18:05:45 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:45 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 海边的曼彻斯特
+11 Jan 2018 18:05:45 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:45 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/3011235/ title:哈利·波特与死亡圣器(下) score:8.6 judge_people:276088 info:无介绍
+11 Jan 2018 18:05:45 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:45 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 哈利·波特与死亡圣器(下)
+11 Jan 2018 18:05:45 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:46 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1291557/ title:花样年华 score:8.5 judge_people:249185 info:无介绍
+11 Jan 2018 18:05:46 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:46 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 花样年华
+11 Jan 2018 18:05:46 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:46 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/24750126/ title:荒蛮故事 score:8.7 judge_people:138627 info:无介绍
+11 Jan 2018 18:05:46 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:46 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 荒蛮故事
+11 Jan 2018 18:05:46 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:47 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/26430107/ title:二十二 score:8.8 judge_people:89404 info:无介绍
+11 Jan 2018 18:05:47 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:47 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 二十二
+11 Jan 2018 18:05:47 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:47 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1306861/ title:我是山姆 score:8.8 judge_people:104376 info:无介绍
+11 Jan 2018 18:05:47 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:47 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 我是山姆
+11 Jan 2018 18:05:47 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:48 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/25814707/ title:小森林 冬春篇 score:8.9 judge_people:114183 info:无介绍
+11 Jan 2018 18:05:48 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:48 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 小森林 冬春篇
+11 Jan 2018 18:05:48 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:48 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1302827/ title:人工智能 score:8.6 judge_people:190963 info:无介绍
+11 Jan 2018 18:05:48 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:48 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 人工智能
+11 Jan 2018 18:05:48 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:49 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/2297265/ title:浪潮 score:8.7 judge_people:133129 info:无介绍
+11 Jan 2018 18:05:49 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:49 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 浪潮
+11 Jan 2018 18:05:49 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:49 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1291578/ title:冰川时代 score:8.4 judge_people:272738 info:无介绍
+11 Jan 2018 18:05:49 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:49 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 冰川时代
+11 Jan 2018 18:05:49 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:50 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1760622/ title:香水 score:8.4 judge_people:277529 info:无介绍
+11 Jan 2018 18:05:50 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:50 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 香水
+11 Jan 2018 18:05:50 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:50 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/10577869/ title:时空恋旅人 score:8.6 judge_people:200675 info:无介绍
+11 Jan 2018 18:05:50 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:50 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 时空恋旅人
+11 Jan 2018 18:05:50 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:51 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1306249/ title:唐伯虎点秋香 score:8.4 judge_people:327571 info:无介绍
+11 Jan 2018 18:05:51 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:51 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 唐伯虎点秋香
+11 Jan 2018 18:05:51 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:51 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/11026735/ title:超能陆战队 score:8.6 judge_people:370657 info:无介绍
+11 Jan 2018 18:05:51 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:51 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 超能陆战队
+11 Jan 2018 18:05:51 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:52 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/2213597/ title:朗读者 score:8.5 judge_people:279601 info:无介绍
+11 Jan 2018 18:05:52 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:52 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 朗读者
+11 Jan 2018 18:05:52 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:52 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/25917973/ title:心迷宫 score:8.6 judge_people:162360 info:无介绍
+11 Jan 2018 18:05:52 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:52 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 心迷宫
+11 Jan 2018 18:05:52 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:53 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/3395373/ title:蝙蝠侠：黑暗骑士崛起 score:8.5 judge_people:296090 info:无介绍
+11 Jan 2018 18:05:53 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:53 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 蝙蝠侠：黑暗骑士崛起
+11 Jan 2018 18:05:53 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:53 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1397546/ title:追随 score:8.9 judge_people:82374 info:无介绍
+11 Jan 2018 18:05:53 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:53 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 追随
+11 Jan 2018 18:05:53 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:54 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1291879/ title:罗生门 score:8.7 judge_people:125665 info:无介绍
+11 Jan 2018 18:05:54 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:54 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 罗生门
+11 Jan 2018 18:05:54 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:54 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1388216/ title:撞车 score:8.6 judge_people:175044 info:无介绍
+11 Jan 2018 18:05:54 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:54 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 撞车
+11 Jan 2018 18:05:54 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:55 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/5964718/ title:一次别离 score:8.7 judge_people:132887 info:无介绍
+11 Jan 2018 18:05:55 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:55 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 一次别离
+11 Jan 2018 18:05:55 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:55 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1308857/ title:可可西里 score:8.7 judge_people:129637 info:无介绍
+11 Jan 2018 18:05:55 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:55 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 可可西里
+11 Jan 2018 18:05:55 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:56 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1419936/ title:战争之王 score:8.5 judge_people:175322 info:无介绍
+11 Jan 2018 18:05:56 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:56 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 战争之王
+11 Jan 2018 18:05:56 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:56 parse.py [line:53]  DEBUG https://movie.douban.com/top250?start=175&filter=
+11 Jan 2018 18:05:57 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1395091/ title:未麻的部屋 score:8.8 judge_people:97559 info:无介绍
+11 Jan 2018 18:05:57 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:57 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 未麻的部屋
+11 Jan 2018 18:05:57 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:57 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/25773932/ title:爆裂鼓手 score:8.6 judge_people:237874 info:无介绍
+11 Jan 2018 18:05:57 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:57 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 爆裂鼓手
+11 Jan 2018 18:05:57 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:58 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1292270/ title:梦之安魂曲 score:8.7 judge_people:112149 info:无介绍
+11 Jan 2018 18:05:58 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:58 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 梦之安魂曲
+11 Jan 2018 18:05:58 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:58 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/2363506/ title:地球上的星星 score:8.8 judge_people:84565 info:无介绍
+11 Jan 2018 18:05:58 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:58 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 地球上的星星
+11 Jan 2018 18:05:58 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:59 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/3011051/ title:恐怖游轮 score:8.3 judge_people:323386 info:无介绍
+11 Jan 2018 18:05:59 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:59 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 恐怖游轮
+11 Jan 2018 18:05:59 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:05:59 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1300960/ title:碧海蓝天 score:8.7 judge_people:108155 info:无介绍
+11 Jan 2018 18:05:59 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:05:59 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 碧海蓝天
+11 Jan 2018 18:05:59 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:06:00 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1793929/ title:达拉斯买家俱乐部 score:8.6 judge_people:168242 info:无介绍
+11 Jan 2018 18:06:00 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:06:00 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 达拉斯买家俱乐部
+11 Jan 2018 18:06:00 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:06:00 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1305690/ title:阿飞正传 score:8.5 judge_people:181866 info:无介绍
+11 Jan 2018 18:06:00 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:06:00 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 阿飞正传
+11 Jan 2018 18:06:00 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:06:01 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1292329/ title:牯岭街少年杀人事件 score:8.7 judge_people:106825 info:无介绍
+11 Jan 2018 18:06:01 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:06:01 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 牯岭街少年杀人事件
+11 Jan 2018 18:06:01 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:06:01 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1308767/ title:谍影重重2 score:8.5 judge_people:159450 info:无介绍
+11 Jan 2018 18:06:01 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:06:01 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 谍影重重2
+11 Jan 2018 18:06:01 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:06:02 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1304102/ title:谍影重重 score:8.5 judge_people:192017 info:无介绍
+11 Jan 2018 18:06:02 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:06:02 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 谍影重重
+11 Jan 2018 18:06:02 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:06:02 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/2043546/ title:秒速5厘米 score:8.3 judge_people:296852 info:无介绍
+11 Jan 2018 18:06:02 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:06:02 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 秒速5厘米
+11 Jan 2018 18:06:02 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:06:03 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/6307447/ title:被解救的姜戈 score:8.5 judge_people:259431 info:无介绍
+11 Jan 2018 18:06:03 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:06:03 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 被解救的姜戈
+11 Jan 2018 18:06:03 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:06:03 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1307811/ title:魔女宅急便 score:8.5 judge_people:194231 info:无介绍
+11 Jan 2018 18:06:03 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:06:03 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 魔女宅急便
+11 Jan 2018 18:06:03 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:06:04 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1293181/ title:惊魂记 score:8.9 judge_people:82729 info:无介绍
+11 Jan 2018 18:06:04 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:06:04 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 惊魂记
+11 Jan 2018 18:06:04 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:06:04 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/3007773/ title:海盗电台 score:8.6 judge_people:165252 info:无介绍
+11 Jan 2018 18:06:04 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:06:04 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 海盗电台
+11 Jan 2018 18:06:04 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:06:05 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/6874403/ title:再次出发之纽约遇见你 score:8.5 judge_people:168216 info:无介绍
+11 Jan 2018 18:06:05 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:06:05 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 再次出发之纽约遇见你
+11 Jan 2018 18:06:05 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:06:05 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1303394/ title:青蛇 score:8.4 judge_people:220587 info:无介绍
+11 Jan 2018 18:06:05 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:06:05 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 青蛇
+11 Jan 2018 18:06:05 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:06:06 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1959195/ title:忠犬八公物语 score:9.0 judge_people:58602 info:无介绍
+11 Jan 2018 18:06:06 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:06:06 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 忠犬八公物语
+11 Jan 2018 18:06:06 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:06:06 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1291568/ title:东京物语 score:9.2 judge_people:50400 info:无介绍
+11 Jan 2018 18:06:06 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:06:06 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 东京物语
+11 Jan 2018 18:06:06 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:06:07 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1300374/ title:绿里奇迹 score:8.7 judge_people:106317 info:无介绍
+11 Jan 2018 18:06:07 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:06:07 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 绿里奇迹
+11 Jan 2018 18:06:07 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:06:07 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1307315/ title:哪吒闹海 score:8.8 judge_people:79926 info:无介绍
+11 Jan 2018 18:06:07 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:06:07 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 哪吒闹海
+11 Jan 2018 18:06:07 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:06:08 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1291992/ title:末路狂花 score:8.7 judge_people:104341 info:无介绍
+11 Jan 2018 18:06:08 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:06:08 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 末路狂花
+11 Jan 2018 18:06:08 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:06:08 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1292728/ title:勇闯夺命岛 score:8.5 judge_people:141635 info:无介绍
+11 Jan 2018 18:06:08 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:06:08 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 勇闯夺命岛
+11 Jan 2018 18:06:08 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:06:09 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1291844/ title:终结者2：审判日 score:8.5 judge_people:140542 info:无介绍
+11 Jan 2018 18:06:09 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:06:09 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 终结者2：审判日
+11 Jan 2018 18:06:09 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:06:09 parse.py [line:53]  DEBUG https://movie.douban.com/top250?start=200&filter=
+11 Jan 2018 18:06:10 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1296753/ title:卡萨布兰卡 score:8.6 judge_people:124340 info:无介绍
+11 Jan 2018 18:06:10 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:06:10 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 卡萨布兰卡
+11 Jan 2018 18:06:10 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:06:10 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1292281/ title:迁徙的鸟 score:9.1 judge_people:51675 info:无介绍
+11 Jan 2018 18:06:10 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:06:10 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 迁徙的鸟
+11 Jan 2018 18:06:10 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:06:11 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1905462/ title:荒野生存 score:8.6 judge_people:127024 info:无介绍
+11 Jan 2018 18:06:11 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:06:11 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 荒野生存
+11 Jan 2018 18:06:11 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:06:11 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/2300586/ title:这个男人来自地球 score:8.5 judge_people:178919 info:无介绍
+11 Jan 2018 18:06:11 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:06:11 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 这个男人来自地球
+11 Jan 2018 18:06:11 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:06:12 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/3075287/ title:源代码 score:8.3 judge_people:407364 info:无介绍
+11 Jan 2018 18:06:12 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:06:12 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 源代码
+11 Jan 2018 18:06:12 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:06:12 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1292287/ title:新龙门客栈 score:8.5 judge_people:182698 info:无介绍
+11 Jan 2018 18:06:12 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:06:12 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 新龙门客栈
+11 Jan 2018 18:06:12 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:06:13 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1292659/ title:变脸 score:8.4 judge_people:213864 info:无介绍
+11 Jan 2018 18:06:13 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:06:13 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 变脸
+11 Jan 2018 18:06:13 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:06:13 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1302467/ title:黑客帝国3：矩阵革命 score:8.5 judge_people:154869 info:无介绍
+11 Jan 2018 18:06:13 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:06:13 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 黑客帝国3：矩阵革命
+11 Jan 2018 18:06:13 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:06:14 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1293908/ title:城市之光 score:9.2 judge_people:43581 info:无介绍
+11 Jan 2018 18:06:14 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:06:14 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 城市之光
+11 Jan 2018 18:06:14 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:06:14 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/10533913/ title:头脑特工队 score:8.7 judge_people:224045 info:无介绍
+11 Jan 2018 18:06:14 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:06:14 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 头脑特工队
+11 Jan 2018 18:06:14 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:06:15 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1294638/ title:E.T. 外星人 score:8.5 judge_people:152223 info:无介绍
+11 Jan 2018 18:06:15 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:06:15 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = E.T. 外星人
+11 Jan 2018 18:06:15 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:06:15 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1307793/ title:燕尾蝶 score:8.6 judge_people:107615 info:无介绍
+11 Jan 2018 18:06:15 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:06:15 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 燕尾蝶
+11 Jan 2018 18:06:15 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:06:16 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1401118/ title:黄金三镖客 score:9.1 judge_people:51056 info:无介绍
+11 Jan 2018 18:06:16 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:06:16 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 黄金三镖客
+11 Jan 2018 18:06:16 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:06:16 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1292233/ title:发条橙 score:8.4 judge_people:185582 info:无介绍
+11 Jan 2018 18:06:16 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:06:16 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 发条橙
+11 Jan 2018 18:06:16 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:06:17 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1292062/ title:美国丽人 score:8.4 judge_people:184757 info:无介绍
+11 Jan 2018 18:06:17 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:06:17 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 美国丽人
+11 Jan 2018 18:06:17 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:06:17 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1291853/ title:英国病人 score:8.4 judge_people:173501 info:无介绍
+11 Jan 2018 18:06:17 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:06:17 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 英国病人
+11 Jan 2018 18:06:17 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:06:18 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/10463953/ title:模仿游戏 score:8.5 judge_people:253248 info:无介绍
+11 Jan 2018 18:06:18 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:06:18 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 模仿游戏
+11 Jan 2018 18:06:18 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:06:18 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1438652/ title:无耻混蛋 score:8.4 judge_people:222462 info:无介绍
+11 Jan 2018 18:06:18 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:06:18 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 无耻混蛋
+11 Jan 2018 18:06:18 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:06:19 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/4739952/ title:初恋这件小事 score:8.3 judge_people:457544 info:无介绍
+11 Jan 2018 18:06:19 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:06:19 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 初恋这件小事
+11 Jan 2018 18:06:19 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:06:19 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/25724855/ title:房间 score:8.8 judge_people:149597 info:无介绍
+11 Jan 2018 18:06:19 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:06:19 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 房间
+11 Jan 2018 18:06:19 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:06:20 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/4798888/ title:叫我第一名 score:8.6 judge_people:108224 info:无介绍
+11 Jan 2018 18:06:20 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:06:20 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 叫我第一名
+11 Jan 2018 18:06:20 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:06:20 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1292214/ title:非常嫌疑犯 score:8.6 judge_people:115663 info:无介绍
+11 Jan 2018 18:06:20 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:06:20 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 非常嫌疑犯
+11 Jan 2018 18:06:20 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:06:21 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1292217/ title:穆赫兰道 score:8.3 judge_people:233665 info:无介绍
+11 Jan 2018 18:06:21 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:06:21 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 穆赫兰道
+11 Jan 2018 18:06:21 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:06:21 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/3217169/ title:勇士 score:8.9 judge_people:87154 info:无介绍
+11 Jan 2018 18:06:21 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:06:21 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 勇士
+11 Jan 2018 18:06:21 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:06:22 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/10808442/ title:爱在午夜降临前 score:8.8 judge_people:114639 info:无介绍
+11 Jan 2018 18:06:22 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:06:22 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 爱在午夜降临前
+11 Jan 2018 18:06:22 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:06:22 parse.py [line:53]  DEBUG https://movie.douban.com/top250?start=225&filter=
+11 Jan 2018 18:06:23 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1297478/ title:上帝也疯狂 score:8.6 judge_people:95508 info:无介绍
+11 Jan 2018 18:06:23 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:06:23 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 上帝也疯狂
+11 Jan 2018 18:06:23 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:06:23 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/6534248/ title:无敌破坏王 score:8.6 judge_people:183162 info:无介绍
+11 Jan 2018 18:06:23 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:06:23 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 无敌破坏王
+11 Jan 2018 18:06:23 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:06:24 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/4023638/ title:国王的演讲 score:8.3 judge_people:337300 info:无介绍
+11 Jan 2018 18:06:24 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:06:24 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 国王的演讲
+11 Jan 2018 18:06:24 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:06:24 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1308575/ title:蓝色大门 score:8.3 judge_people:271506 info:无介绍
+11 Jan 2018 18:06:24 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:06:24 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 蓝色大门
+11 Jan 2018 18:06:24 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:06:25 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1862151/ title:疯狂的石头 score:8.2 judge_people:310591 info:无介绍
+11 Jan 2018 18:06:25 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:06:25 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 疯狂的石头
+11 Jan 2018 18:06:25 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:06:25 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/26628357/ title:一个叫欧维的男人决定去死 score:8.7 judge_people:112200 info:无介绍
+11 Jan 2018 18:06:25 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:06:25 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 一个叫欧维的男人决定去死
+11 Jan 2018 18:06:25 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:06:26 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1428175/ title:血钻 score:8.5 judge_people:130161 info:无介绍
+11 Jan 2018 18:06:26 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:06:26 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 血钻
+11 Jan 2018 18:06:26 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:06:26 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1300741/ title:枪火 score:8.6 judge_people:98890 info:无介绍
+11 Jan 2018 18:06:26 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:06:26 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 枪火
+11 Jan 2018 18:06:26 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:06:27 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1299361/ title:爱·回家 score:9.0 judge_people:46980 info:无介绍
+11 Jan 2018 18:06:27 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:06:27 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 爱·回家
+11 Jan 2018 18:06:27 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:06:27 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1305725/ title:大卫·戈尔的一生 score:8.6 judge_people:91330 info:无介绍
+11 Jan 2018 18:06:27 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:06:27 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 大卫·戈尔的一生
+11 Jan 2018 18:06:27 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:06:28 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/2222996/ title:步履不停 score:8.8 judge_people:68594 info:无介绍
+11 Jan 2018 18:06:28 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:06:28 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 步履不停
+11 Jan 2018 18:06:28 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:06:28 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1867345/ title:遗愿清单 score:8.5 judge_people:126273 info:无介绍
+11 Jan 2018 18:06:28 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:06:28 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 遗愿清单
+11 Jan 2018 18:06:28 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:06:29 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1300117/ title:千钧一发 score:8.7 judge_people:84465 info:无介绍
+11 Jan 2018 18:06:29 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:06:29 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 千钧一发
+11 Jan 2018 18:06:29 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:06:29 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1302476/ title:麦兜故事 score:8.5 judge_people:126869 info:无介绍
+11 Jan 2018 18:06:29 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:06:29 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 麦兜故事
+11 Jan 2018 18:06:29 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:06:30 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1298653/ title:荒岛余生 score:8.5 judge_people:132091 info:无介绍
+11 Jan 2018 18:06:30 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:06:30 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 荒岛余生
+11 Jan 2018 18:06:30 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:06:30 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1292337/ title:无人知晓 score:9.0 judge_people:51953 info:无介绍
+11 Jan 2018 18:06:30 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:06:30 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 无人知晓
+11 Jan 2018 18:06:30 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:06:31 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1308777/ title:暖暖内含光 score:8.4 judge_people:143364 info:无介绍
+11 Jan 2018 18:06:31 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:06:31 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 暖暖内含光
+11 Jan 2018 18:06:31 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:06:31 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/25807345/ title:彗星来的那一夜 score:8.4 judge_people:171734 info:无介绍
+11 Jan 2018 18:06:31 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:06:31 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 彗星来的那一夜
+11 Jan 2018 18:06:31 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:06:32 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/2053515/ title:曾经 score:8.3 judge_people:201662 info:无介绍
+11 Jan 2018 18:06:32 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:06:32 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 曾经
+11 Jan 2018 18:06:32 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:06:32 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/5908478/ title:我爱你 score:9.0 judge_people:56059 info:无介绍
+11 Jan 2018 18:06:32 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:06:32 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 我爱你
+11 Jan 2018 18:06:32 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:06:33 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/26683290/ title:你的名字。 score:8.5 judge_people:448061 info:无介绍
+11 Jan 2018 18:06:33 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:06:33 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 你的名字。
+11 Jan 2018 18:06:33 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:06:33 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1292056/ title:蝴蝶 score:8.6 judge_people:94463 info:无介绍
+11 Jan 2018 18:06:33 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:06:33 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 蝴蝶
+11 Jan 2018 18:06:33 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:06:34 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/3073124/ title:月球 score:8.5 judge_people:142018 info:无介绍
+11 Jan 2018 18:06:34 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:06:34 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 月球
+11 Jan 2018 18:06:34 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:06:34 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/3157605/ title:巴黎淘气帮 score:8.6 judge_people:103655 info:无介绍
+11 Jan 2018 18:06:34 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:06:34 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 巴黎淘气帮
+11 Jan 2018 18:06:34 database.py [line:68]  DEBUG insert or update success
+11 Jan 2018 18:06:35 parse.py [line:34]  DEBUG href:https://movie.douban.com/subject/1293764/ title:与狼共舞 score:8.9 judge_people:55466 info:无介绍
+11 Jan 2018 18:06:35 database.py [line:19]  DEBUG create table fail, for table exits
+11 Jan 2018 18:06:35 database.py [line:34]  ERROR query fail, sql :select * from movie_table where movie_title = 与狼共舞
+11 Jan 2018 18:06:35 database.py [line:68]  DEBUG insert or update success
